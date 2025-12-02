@@ -1,7 +1,7 @@
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'Roboto',sans-serif;background:#0a0a0a;color:#eee;line-height:1.6}
 .container{max-width:1100px;margin:0 auto;padding:0 20px}
-.hero{background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url('https://imgur.com/a/Yz5Lwbs')center/cover;padding:140px 20px;text-align:center}
+.hero{background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url('https://imgur.com/oHDR84O')center/cover;padding:140px 20px;text-align:center}
 h1{font-family:'Orbitron',sans-serif;font-size:4.2rem;margin-bottom:20px}
 h1 span{color:#00ff41}
 .tagline{font-size:1.5rem;margin:30px auto;max-width:800px}
